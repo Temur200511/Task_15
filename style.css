@@ -364,6 +364,53 @@ bottom: -100px;
 
     .social_media{
         padding-top: 200px;
-        padding-bottom: 30px;
+        padding-left: 150px;
     }
+
+    .jaket_1_2{
+        bottom: 170px;
+    }
+
+
+
+}
+
+@media (max-width:952px)
+{
+.string{
+    width: 700px;
+}
+}
+
+@media (max-width:852px)
+{
+   .dots{
+    margin-left: 120px;
+   } 
+
+   .jaket{
+    margin-right: 130px;
+   }
+
+   .chevron{
+    right: 30px;
+    width: 350px;
+    height: 250px;
+   }
+
+   .jaket_1_2{
+    right: 170px;
+   }
+
+   header{
+    flex-direction: column;
+   }
+
+.jaket_31, .jaket_2_1{
+    bottom: 50px;
+}
+}
+
+@media{
+    
 }
